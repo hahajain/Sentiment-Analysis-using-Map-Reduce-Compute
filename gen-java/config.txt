@@ -1,0 +1,6 @@
+1
+9106 9107
+csel-kh4250-10.cselabs.umn.edu 0.8
+csel-kh4250-09.cselabs.umn.edu 0.5
+csel-kh4250-08.cselabs.umn.edu 0.2
+csel-kh4250-07.cselabs.umn.edu 0.9
